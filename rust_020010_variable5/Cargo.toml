@@ -1,0 +1,6 @@
+[package]
+name = "rust_020010_variable5"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
